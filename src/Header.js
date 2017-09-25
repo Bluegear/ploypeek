@@ -6,7 +6,7 @@ class Header extends Component {
       <div className="Header">
         <div className="navbar is-transparent" role="navigation" aria-label="main navigation">
           <div className="navbar-brand">
-            <a className="navbar-item" href="/">Crypto66</a>
+            <a className="navbar-item" href="/">PloyPeek</a>
           </div>
         </div>
       </div>
