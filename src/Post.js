@@ -8,7 +8,6 @@ class Post extends Component {
     }
 
     componentWillMount() {
-        console.log(this.props.match.params.filename);
         const mdPath = require("./posts/" + this.props.match.params.filename + ".md");
       
         fetch(mdPath)
