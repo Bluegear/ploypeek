@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Home from './Home';
-import Post from './posts/Post';
+import Post from './Post';
 import { Switch, Route } from 'react-router-dom';
 
 class Main extends Component {
